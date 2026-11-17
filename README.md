@@ -4,9 +4,9 @@
 
 Estudante de Análise e Desenvolvimento de Sistemas na **UNIFOR** · Fortaleza, Ceará
 
-<a href="https://www.linkedin.com/in/italo-galdino-mota-a88194423"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:italo.mota.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
-<img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para-Est%C3%A1gio-2EA44F?style=for-the-badge" alt="Disponível para estágio" />
+<p align="center">
+<a href="https://www.linkedin.com/in/italo-galdino-mota-a88194423"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a> <a href="mailto:italo.mota.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a> <img src="https://img.shields.io/badge/Dispon%C3%ADvel%20para-Est%C3%A1gio-2EA44F?style=for-the-badge" alt="Disponível para estágio" />
+</p>
 
 </div>
 
@@ -27,29 +27,30 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFOR (conclusão pr
 
 ## Tecnologias
 
-**Front-end**<br>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+<p>
+<b>Front-end</b><br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+</p>
 
-**Back-end**<br>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<p>
+<b>Back-end</b><br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
 
-**Banco de dados**<br>
+<p>
+<b>Banco de dados</b><br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
 
-**Mobile**<br>
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+<p>
+<b>Mobile</b><br>
+<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+</p>
 
-**Ferramentas**<br>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+<p>
+<b>Ferramentas</b><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+</p>
 
 ---
 
@@ -58,10 +59,9 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na UNIFOR (conclusão pr
 ### [GereLocal](https://github.com/ItaloMota-Dev/GereLocal)
 Sistema web de gestão de estoque e vendas para pequenos comércios, desenvolvido em um **projeto de extensão universitária com foco social**. A proposta é simplificar essas tarefas com uma interface acessível e fácil de usar.
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass" />
+</p>
 
 <details>
 <summary><b>Ver funcionalidades</b></summary>
@@ -80,7 +80,9 @@ Sistema web de gestão de estoque e vendas para pequenos comércios, desenvolvid
 ### [RachaMais](https://github.com/ItaloMota-Dev/RachaMais)
 Aplicação web, desenvolvida em equipe, para organizar grupos, tarefas e despesas compartilhadas.
 
+<p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 <details>
 <summary><b>Ver funcionalidades</b></summary>
@@ -97,9 +99,9 @@ Aplicação web, desenvolvida em equipe, para organizar grupos, tarefas e despes
 ### [Biblioteca Unifor](https://github.com/gustavuhh1/unifor-biblioteca-app)
 App de biblioteca universitária, desenvolvido em equipe, para registrar empréstimos, controlar o acervo e acompanhar o uso da biblioteca.
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+<p>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
+</p>
 
 <details>
 <summary><b>Ver funcionalidades</b></summary>
@@ -116,7 +118,9 @@ App de biblioteca universitária, desenvolvido em equipe, para registrar emprés
 ### [Arvendro Gestão](https://github.com/Diegofreitas-mend/IntegracaoArquivos)
 Sistema desenvolvido em equipe para registrar vendas e acompanhar o estoque, com as vendas integradas ao estoque por arquivos JSON.
 
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
 
 <details>
 <summary><b>Ver funcionalidades</b></summary>
@@ -165,8 +169,9 @@ Técnico em Informática integrado ao Ensino Médio · 02/2022 – 12/2024
 
 ## Vamos conversar?
 
-<a href="https://www.linkedin.com/in/italo-galdino-mota-a88194423"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:italo.mota.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+<p align="center">
+<a href="https://www.linkedin.com/in/italo-galdino-mota-a88194423"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn" /></a> <a href="mailto:italo.mota.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" /></a>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:10242F,100:2F7F93&height=100&section=footer" alt="" />
 
